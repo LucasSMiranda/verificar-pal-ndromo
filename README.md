@@ -1,2 +1,2 @@
-# verificar-pal-ndromo
+# verificar-palindromo
 Prática do curso variáveis tipos de JavaScript.
